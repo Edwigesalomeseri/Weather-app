@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 body {
     font-family: 'Roboto';
     color: #fff;
@@ -18,11 +19,50 @@ body {
   }
   .imagesun{
     margin-top: -150px;
+=======
+
+body {
+    font-family: 'Roboto';
+    color: rgb(247, 244, 253);
+    /* background: url(http://www.chiltonareacatholic.org/wp-content/uploads/2015/02/Blue1.jpg); */
+    background: #7f00ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #7f00ff, #e100ff); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #7f00ff, #e100ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     font-size: 35px;
+     text-align: center;
+     
+}
+  
+h2{
+    
+     margin-top: 20px;
+     margin-bottom: 10px;
+}
+ 
+h1{
+     margin-top: 20px;
+     margin-bottom: 10px;
+     
+ }
+ 
+container {
+    height: 93px;
+    max-width: 20px;
+    margin: 20 px;
+    margin-top: 20px;
+    padding: 150px;
+    box-shadow: 0px 0px 5px;
+    background-color: rgba(255, 255, 255, 0.1);  
+  }
+  .imagesun{
+    margin-top: -20px;
+>>>>>>> db2ba418469e9a37703e9f4d0a971515bef9e36f
   }
   top view{
     padding: 0px;
     margin: 2px;
   }
+<<<<<<< HEAD
   h1{
     margin-top: 20px;
     margin-bottom: 10px;
@@ -34,6 +74,12 @@ body {
   .middle-section {
     font-size: 12px;
     margin-top: 150px;
+=======
+  
+  .middle-section {
+    font-size: 12px;
+    margin-top: 140px;
+>>>>>>> db2ba418469e9a37703e9f4d0a971515bef9e36f
     padding: 0px;
   }
   @media screen and (min-width: 320px) {
@@ -48,4 +94,8 @@ body {
     margin-top: -20px;
   /*   background: #f00; */
   }
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> db2ba418469e9a37703e9f4d0a971515bef9e36f
