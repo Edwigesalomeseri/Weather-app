@@ -1,6 +1,6 @@
 # Weather-app
- 5 day weather forecast
- Countries weather forecast
+ 5 days weather forecast
+
 
     Brief details
 In this brief, we are trying to create an app that could have many features.This app will enable someone name X to know the weather in different places.
